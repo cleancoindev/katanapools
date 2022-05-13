@@ -36,7 +36,7 @@
     "redux-promise": "^0.6.0",
     "typescript": "^3.8.3",
     "victory": "^34.1.1",
-    "web3": "^1.2.6"
+    "web3": "^1.7.3"
   },
   "scripts": {
     "start": "PORT=8083 react-scripts start",
